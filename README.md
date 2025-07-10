@@ -70,7 +70,7 @@ print(f"Predicted Sales: {predicted_sales[0]:.2f} units")
 
 ## Model Performance
 
-The final model was tuned using **RandomizedSearchCV** to prevent overfitting. The key discovery was that sales data has a high degree of natural randomness, and the model successfully learned the predictable patterns.
+The final model was tuned using `RandomizedSearchCV` to prevent overfitting. The key discovery was that sales data has a high degree of natural randomness, and the model successfully learned the predictable patterns.
 
 | Metric         | Value   |
 |----------------|---------|
