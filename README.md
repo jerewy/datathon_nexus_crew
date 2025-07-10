@@ -1,4 +1,4 @@
-# nvense: A Random Forest Regressor Model for Dynamic Demand Forecasting in Retail
+# Invense: A Random Forest Regressor Model for Dynamic Demand Forecasting in Retail
 
 Accurate demand forecasting is a critical challenge in the retail sector, where inefficiencies in inventory management can lead to significant financial losses from overstocking or lost sales due to stockouts. This project proposes Invense, a predictive model based on a Random Forest Regressor, to forecast unit sales with high fidelity. By integrating a wide array of features—including pricing, promotional activities, and seasonality—the model captures the complex, non-linear patterns inherent in consumer purchasing behavior. The primary contribution of this work is an end-to-end pipeline that not only predicts future sales but also operationalizes these forecasts into a "Store Owner's Action Plan," a data-driven tool that recommends precise reorder quantities to optimize stock levels. This framework provides a practical, scalable solution for enhancing operational efficiency in retail environments.
 
